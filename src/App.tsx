@@ -339,7 +339,7 @@ function App() {
                 <h3 className="text-2xl font-semibold text-gray-900 dark:text-white mb-6">Follow Me</h3>
                 <div className="space-y-4">
                   <a
-                    href="https://github.com/ritam-student"
+                    href="https://github.com/ritam-acharya"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center space-x-4 p-3 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors group"
@@ -349,7 +349,7 @@ function App() {
                     </div>
                     <div>
                       <p className="font-medium text-gray-900 dark:text-white">GitHub</p>
-                      <p className="text-sm text-gray-500 dark:text-gray-400">@ritam-student</p>
+                      <p className="text-sm text-gray-500 dark:text-gray-400">@ritam-acharya</p>
                     </div>
                   </a>
                   <a
